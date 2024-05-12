@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="23.816">
+    <testcase classname="Feature file for Automation Testing page" name="Search query on google page" time="23.647">
+        <system-out><![CDATA[Given we are google page....................................................passed
+When enter search query.....................................................passed
+And press enter/search icon key.............................................passed
+Then details will be displayed on google page...............................passed
+And Browser closed..........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

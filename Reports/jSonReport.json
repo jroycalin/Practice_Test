@@ -1,0 +1,437 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-08-04T09:21:26.591Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2000600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 999100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Search Selenium",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-selenium",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 45420200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "we are google page Selenium",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_selenium()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 999200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-04T09:21:26.732Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Search API Testing",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-api-testing",
+        "after": [
+          {
+            "result": {
+              "duration": 1033100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 997100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "we are google page API Testing",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_api_testing()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-04T09:21:26.740Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 999700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Search Cucumber",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-cucumber",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "we are google page Cucumber",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_cucumber()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000300,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-04T09:21:26.746Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1034100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1000400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeFunctional()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Search Functional Testing",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-functional-testing",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "we are google page Functional Testing",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_functional_testing()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1000100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-04T09:21:26.757Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeFunctional()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Search Capgemini",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-capgemini",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 996900,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "we are google page Capgemini",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_capgemini()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@FunctionalTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-04T09:21:26.763Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.startBrowser()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "Search Postman",
+        "description": "",
+        "id": "feature-file-for-tags-in-cucumber;search-postman",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.step.Steps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "we are google page Postman",
+            "match": {
+              "location": "com.step.Steps.we_are_google_page_postman()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.step.Steps.addScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Feature file for Tags in Cucumber",
+    "description": "",
+    "id": "feature-file-for-tags-in-cucumber",
+    "keyword": "Feature",
+    "uri": "file:Features/Tags.feature",
+    "tags": []
+  }
+]

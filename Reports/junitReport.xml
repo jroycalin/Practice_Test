@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="0.358">
+    <testcase classname="Feature file for Tags in Cucumber" name="Search Selenium" time="0.131">
+        <system-out><![CDATA[Given we are google page Selenium...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature file for Tags in Cucumber" name="Search API Testing" time="0.004">
+        <system-out><![CDATA[Given we are google page API Testing........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature file for Tags in Cucumber" name="Search Cucumber" time="0.003">
+        <system-out><![CDATA[Given we are google page Cucumber...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature file for Tags in Cucumber" name="Search Functional Testing" time="0.008">
+        <system-out><![CDATA[Given we are google page Functional Testing.................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature file for Tags in Cucumber" name="Search Capgemini" time="0.003">
+        <system-out><![CDATA[Given we are google page Capgemini..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature file for Tags in Cucumber" name="Search Postman" time="0.003">
+        <system-out><![CDATA[Given we are google page Postman............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
